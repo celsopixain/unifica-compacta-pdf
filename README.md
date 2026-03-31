@@ -2,6 +2,10 @@
 
 Uma aplicação web local, rápida e privativa construída em Python para manipulação de arquivos PDF. Com este projeto, você pode unir vários documentos ou reduzir o peso de arquivos muito grandes sem precisar enviar seus dados para servidores de terceiros.
 
+Acesse também a versão online do projeto:
+
+https://unifica-compacta-pdf-rdbb42pemap2dnncxtqxww.streamlit.app/
+
 ---
 
 ## 🚀 Funcionalidades
