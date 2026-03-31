@@ -1,5 +1,5 @@
 import io
-from pypdf import PdfMerger, PdfWriter
+from pypdf import PdfWriter
 import streamlit as st
 
 # Configuração da página
