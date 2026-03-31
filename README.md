@@ -32,3 +32,12 @@ Abra o seu terminal (Prompt de Comando ou Git Bash) e execute o comando abaixo:
 
 ```bash
 C:/Python313/python.exe -m pip install streamlit pypdf pillow
+```
+
+## ▶️ Execução local
+
+Para executar o projeto localmente, abra o terminal e digite:
+
+```bash
+C:/Python313/python.exe -m streamlit run app_web.py
+```

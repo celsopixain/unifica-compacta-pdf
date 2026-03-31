@@ -11,6 +11,8 @@ st.set_page_config(
 
 st.title("📄 Unificador e Compressor de PDF")
 st.write("Suba seus arquivos e processe-os localmente com total privacidade.")
+st.write("Desenvolvido por Celso Ricardo de Albuquerque - [LinkedIn](https://www.linkedin.com/in/celso-albuquerque/)")
+
 
 # Criação das abas para separar as funções
 aba1, aba2 = st.tabs(["Juntar PDFs", "Reduzir Tamanho"])
